@@ -1,5 +1,4 @@
 ###### Requirements ######
-/home/appuser/venv/bin/python pip install Cython
 Cython
 git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
 object-detection-neko
